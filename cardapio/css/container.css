@@ -1,0 +1,18 @@
+container {
+  width: 100%;
+  text-align: center;
+  padding: auto;
+  
+}
+
+.col {
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
+}
+
+.row {
+  text-align: left;
+}

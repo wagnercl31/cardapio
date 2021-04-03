@@ -1,0 +1,31 @@
+/*comando para centralizar o conteudo*/
+*{
+  margin: 0 auto;
+  padding: 0px;
+}
+
+body {
+  padding-top: 20px;
+  background-color: #FFF;
+}
+
+#logoBack{
+  padding-top: 3%;
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  opacity: 0.05;
+}
+
+label {
+  font: 600 20px 'Roboto Slab', serif;
+  padding-bottom: 30px;
+  padding-top: 20px
+} 
+
+
+
+
+
